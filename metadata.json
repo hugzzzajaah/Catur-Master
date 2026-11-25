@@ -1,0 +1,6 @@
+{
+  "name": "Catur Master",
+  "description": "Bermain catur dengan teman atau AI cerdas dengan kesulitan otomatis/adaptif, analisis langkah, dan jam catur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
